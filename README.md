@@ -16,6 +16,9 @@ An interactive Excel dashboard that visualizes bike purchase data across custome
 2. Use slicers to filter data by region, marital status, and education
 3. Explore visualizations to uncover trends and insights
 
+## 🎬 Demo Video
+[Click here to download and watch the dashboard demo](bike_sales_analysis/dashboardshot.mp4)
+
 ## 🧰 Tools & Techniques
 - Microsoft Excel
 - Pivot Tables
