@@ -17,7 +17,7 @@ An interactive Excel dashboard that visualizes bike purchase data across custome
 3. Explore visualizations to uncover trends and insights
 
 ## 🎬 Demo Video
-[Click here to download and watch the dashboard demo](bike_sales_analysis/dashboardshot.mp4)
+[Click here to download and watch the dashboard demo](dashboardshot.mp4)
 
 ## 🧰 Tools & Techniques
 - Microsoft Excel
